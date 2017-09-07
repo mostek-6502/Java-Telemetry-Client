@@ -9,7 +9,8 @@ board produces less than 50 groups of data per second.
 
 
 The current hardware / sofware configuration of the Java client, can process 500 groups
-of data per second which easily handles production output levels.
+of data.  Perfromance was measured on worst case scenario hardware platforms to ensure 
+high levels of performance in production mode.  
 
 
 The salient features of the program are:
