@@ -1,7 +1,12 @@
 # Java-Telemetry-Client
 
-This Java Client accepts real-time data from a micro-controller board.  
+Rick Faszold
 
+XEn, LLC - USA, Missouri (c)
+
+October 11th, 2017
+
+This Java Client accepts real-time data from a micro-controller board.  
 
 The micro-controller board outputs 80+ sensor readings in one group of data.  In test mode, 
 the board is capable of outputting 1,200 groups per second.   In production mode, the 
